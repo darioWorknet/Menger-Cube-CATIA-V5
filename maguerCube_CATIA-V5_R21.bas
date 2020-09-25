@@ -1,4 +1,4 @@
-Attribute VB_Name = "menguerCube_day3"
+Attribute VB_Name = "menguerCube_auto"
 Dim myProd As Product
 Dim myProds As Products
 Dim myDoc As ProductDocument
