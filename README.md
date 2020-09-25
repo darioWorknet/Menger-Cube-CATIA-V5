@@ -1,5 +1,5 @@
-# Menguer-Cube-CATIA-V5
-Menguers cube automation for Catia V5.
+# Menger-Cube-CATIA-V5
+Menger's cube automation for Catia V5.
 
 Download .rar file, uncompress and oppen .CATProduct file.
 
